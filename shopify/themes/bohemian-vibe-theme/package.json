@@ -1,0 +1,8 @@
+{
+  "name": "bohemian-vibe-theme",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
